@@ -1,4 +1,4 @@
-# Juego del piedra, papel o tijera
+# Juego de la piedra, papel o tijera
 
 El juego que se nos ha asignado es el clásico "piedra, papel o tijera" y tras las puestas en común y desarrollar nuestro particular storytelling, nuestro trabajo ha consistido en:
 
